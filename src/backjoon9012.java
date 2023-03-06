@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-import java.util.Queue;
 
 public class backjoon9012 {
     public static void main(String[] args) throws IOException {
